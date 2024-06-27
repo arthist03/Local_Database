@@ -32,12 +32,12 @@ Follow these steps to get your LocalDatabase up and running:
 
 ## Screenshots 📸
 
-![Screenshot1](ScreenShot/Home_Screen.png)
 ![Screenshot2](ScreenShot/Login_Screen.png)
+![Screenshot1](ScreenShot/Home_Screen.png)
 
 ## Contributing 🤝
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions!
 
 ## Acknowledgements 🙏
 
