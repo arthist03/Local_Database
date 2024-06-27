@@ -32,8 +32,8 @@ Follow these steps to get your LocalDatabase up and running:
 
 ## Screenshots 📸
 
-![Screenshot1](https://via.placeholder.com/400x300)
-![Screenshot2](https://via.placeholder.com/400x300)
+![Screenshot1](ScreenShot/Home_Screen.png)
+![Screenshot2](ScreenShot/Login_Screen.png)
 
 ## Contributing 🤝
 
